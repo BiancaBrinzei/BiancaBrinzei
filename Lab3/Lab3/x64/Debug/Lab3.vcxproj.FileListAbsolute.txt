@@ -1,0 +1,2 @@
+C:\Users\40747\source\repos\Lab3\Lab3\x64\Debug\Lab3.vcxproj.AssemblyReference.cache
+C:\Users\40747\source\repos\Lab3\Lab3\x64\Debug\Lab3.vcxproj.SuggestedBindingRedirects.cache
