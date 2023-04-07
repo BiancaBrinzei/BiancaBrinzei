@@ -1,0 +1,12 @@
+C:\Users\Bostan\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.AssemblyReference.cache
+C:\Users\Bostan\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bostan\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.Form1.resources
+C:\Users\Bostan\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.GenerateResource.cache
+C:\Users\Bostan\source\repos\calculator\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.AssemblyReference.cache
+C:\Users\Bostan\source\repos\calculator\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bostan\source\repos\calculator\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.Form1.resources
+C:\Users\Bostan\source\repos\calculator\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.GenerateResource.cache
+C:\Users\40747\source\repos\Calc1\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.AssemblyReference.cache
+C:\Users\40747\source\repos\Calc1\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\40747\source\repos\Calc1\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.Form1.resources
+C:\Users\40747\source\repos\Calc1\CppCLR_WinFormsProject2\Debug\CppCLR_WinFormsProject2.vcxproj.GenerateResource.cache
